@@ -2,7 +2,7 @@
 
 2. [ ] Any database schema migrations? (If yes, please specify the change in a few words)
 
-3. [x] Any data migrations to be run? (Specify the command(s), if any)
+3. [ ] Any data migrations to be run? (Specify the command(s), if any)
 
 4. [ ] Does this require updating Firestore documents? (If yes, mention which of them)
 
